@@ -18,7 +18,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://childapi.cyclic.app/docs': 'bmS7ANQb8D', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
